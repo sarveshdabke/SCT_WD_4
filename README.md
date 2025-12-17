@@ -35,6 +35,5 @@ The application allows users to add, organize, edit, and manage tasks efficientl
 2. Open the `To-doList.html` file in any modern web browser.
 3. Add, edit, and manage tasks directly in the browser.
 
-
 ## Author
 Sarvesh Dabke
