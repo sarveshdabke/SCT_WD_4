@@ -32,7 +32,7 @@ The application allows users to add, organize, edit, and manage tasks efficientl
 
 ## How to Run the Project
 1. Download or clone the repository.
-2. Open the `ToDoApp.html` file in any modern web browser.
+2. Open the `To-doList.html` file in any modern web browser.
 3. Add, edit, and manage tasks directly in the browser.
 
 ## Author
